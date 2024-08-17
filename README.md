@@ -73,10 +73,18 @@ The app’s interactivity is driven by JavaScript:
 - createPassword()
 
   This function generates a random password by selecting characters from predefined sets of uppercase, lowercase, numbers, and symbols. It ensures a secure password by including at least one character from each set and filling the rest to a specified length.
+
+        function createPassword() {
+           // Function implementation
+        }
   
 - copyPassword() Function
 
   This function enables the copying of the generated password to the clipboard, enhancing the user experience by making it easy to use the password immediately.
+
+        function copyPassword () {
+            // Function implementation
+        }
   
 4. Error Handling
    
