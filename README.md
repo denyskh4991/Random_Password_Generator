@@ -10,11 +10,11 @@ This Random Password Generator is a responsive and secure web application design
 
 - User Interface
   
-Input Field
+  Input Field
 
   The app features an input field where the generated password is displayed. This field is designed to be read-only, preventing accidental edits while allowing users to easily copy the password.
 
-Generate Button
+  Generate Button
 
   A button labeled "Generate Password" triggers the password generation process. The button is styled for visibility and ease of use, with an icon to enhance its appearance.
 
@@ -32,15 +32,15 @@ Generate Button
 
 - Modern UI/UX
   
-Typography
+  Typography
 
   The app uses the "Poppins" font from Google Fonts, giving it a clean, modern look.
 
-Color Scheme
+  Color Scheme
 
   A dark background contrasts with a white display box where the password is shown, ensuring high readability. Green accents are used to highlight important elements like the "Random Password" text.
 
-Buttons and Input Styling
+  Buttons and Input Styling
 
   The buttons and input fields feature rounded corners, padding, and shadow effects to enhance the user experience, making interactions intuitive and visually appealing.
 
@@ -54,15 +54,15 @@ Buttons and Input Styling
   
   The CSS file is responsible for the visual presentation of the app. Key aspects include:
 
-Flexbox Layout
+  Flexbox Layout
 
   Flexbox is used to ensure that elements within the .display container and the overall app layout are aligned and spaced correctly.
 
-Color and Typography
+  Color and Typography
 
   The app employs a dark blue background with white text for readability, while green is used for key highlights.
 
-Responsive Design
+     Responsive Design
   
   Media queries and flexible units like percentages are used to ensure the app adapts to different screen sizes while maintaining its usability and aesthetic.
 
