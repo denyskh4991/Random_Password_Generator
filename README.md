@@ -48,7 +48,7 @@ Buttons and Input Styling
 
 - HTML Structure
   
-  The HTML document is structured around a central <div> container (.container) that houses all elements of the app. The main components include the header //<h1>, a password display section //<div class="display">, and the generate button.
+  The HTML document is structured around a central <div> container (.container) that houses all elements of the app. The main components include the header H1, a password display section div class="display", and the generate button.
 
 - CSS Styling
   
