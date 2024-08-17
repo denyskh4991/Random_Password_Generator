@@ -68,7 +68,7 @@ This Random Password Generator is a responsive and secure web application design
 
 3. JavaScript Functionality
    
-The app’s interactivity is driven by JavaScript:
+   The app’s interactivity is driven by JavaScript:
 
 - createPassword()
 
@@ -88,7 +88,7 @@ The app’s interactivity is driven by JavaScript:
   
 4. Error Handling
    
-  While the app does not need to handle many errors, it ensures that if the user tries to copy an empty field (before generating a password), nothing happens. This provides a smooth, error-free experience.
+   While the app does not need to handle many errors, it ensures that if the user tries to copy an empty field (before generating a password), nothing happens. This provides a smooth, error-free experience.
 
 Conclusion:
 
